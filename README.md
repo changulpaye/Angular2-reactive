@@ -1,1 +1,3 @@
-"# Angular2-reactive" 
+"# Angular2-reactive"
+
+RxJs implementation in Angular2. 
